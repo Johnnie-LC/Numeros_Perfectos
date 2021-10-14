@@ -1,17 +1,23 @@
 const { numeroPerfecto } = require('./numeroPerfecto')
 
 const numerosPerfectos = (n) => {
-  if (n > 2) {
-    let numeros = []
+  if (typeof n === 'number') {
+    n = Math.floor(n)
 
-    for (let i = 2; i < n; i++) {
-      if (numeroPerfecto(i) !== 0) {
-        numeros.push(numeroPerfecto(i))
+    if (n > 2) {
+      let numeros = []
+
+      for (let i = 2; i < n; i++) {
+        if (numeroPerfecto(i) !== 0) {
+          numeros.push(numeroPerfecto(i))
+        }
       }
+      return numeros
+    } else {
+      return []
     }
-    return numeros
   } else {
-    return []
+    console.error('debes ingresar un numero entero')
   }
 }
 module.exports = { numerosPerfectos }

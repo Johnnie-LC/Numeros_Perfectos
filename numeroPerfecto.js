@@ -1,5 +1,7 @@
 const numeroPerfecto = (num) => {
   if (typeof num === 'number') {
+    num = Math.floor(num)
+
     let divisores = []
 
     for (let i = 0; i < num; i++) {
@@ -17,7 +19,7 @@ const numeroPerfecto = (num) => {
       return 0
     }
   } else {
-    console.log('Intenta ingresar un numero')
+    console.error('Debes ingresar un numero entero')
   }
 }
 

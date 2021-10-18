@@ -10,7 +10,7 @@
 
 - **Vía git:**
 
-  `git clone https://github.com/Johnnie-LC/Platzi_video.git`
+  `git clone https://github.com/Johnnie-LC/Numeros_Perfectos.git`
 
 - **Para la ejecución del proyecto en terminal:**
 

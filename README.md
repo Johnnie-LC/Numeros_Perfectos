@@ -1,4 +1,4 @@
-# Numeros_Perfectos
+# Numeros Perfectos
 
 ## Introducción
 

@@ -2,7 +2,7 @@
 
 ## Introducción
 
-**Numeoros_Perfectos** es un proyecto escrito en JavaScript que permite obtener los números perfectos menores a un número n.
+**Numeros_Perfectos** es un proyecto escrito en JavaScript que permite obtener los números perfectos menores a un número n.
 
 ## Installación y Ejecución
 

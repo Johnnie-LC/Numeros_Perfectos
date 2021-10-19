@@ -6,7 +6,7 @@
 
 ## Instalación y Ejecución
 
-**_importante:_** _para la instalación y ejecución es necesario instalar node.js_
+**_importante:_** _para la instalación y ejecución es necesario instalar node.js y nodemon_
 
 - **Vía git:**
 

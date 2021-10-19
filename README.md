@@ -1,6 +1,6 @@
 # Numeros_Perfectos
 
-## introducción
+## Introducción
 
 **Numeoros_Perfectos** es un proyecto escrito en JavaScritp que permite obtener los números perfectos menores a un número n.
 

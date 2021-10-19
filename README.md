@@ -14,7 +14,7 @@
 
 - **Para la ejecución del proyecto en terminal:**
 
-  `cd /numerosPerfectos/`
+  `cd /Numeros_Perfectos`
 
   `npm start `
 

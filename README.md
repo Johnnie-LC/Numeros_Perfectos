@@ -1,12 +1,12 @@
-# Numeros_Perfectos
+# Numeros Perfectos
 
-## introducción
+## Introducción
 
-**Numeoros_Perfectos** es un proyecto escrito en JavaScritp que permite obtener los números perfectos menores a un número n.
+**Numeros_Perfectos** es un proyecto escrito en JavaScript que permite obtener los números perfectos menores a un número n.
 
-## Installación y Ejecución
+## Instalación y Ejecución
 
-**_importante:_** _para la instalación y ejecución es necesario instalar node.js_
+**_importante:_** _para la instalación y ejecución es necesario instalar node.js y nodemon_
 
 - **Vía git:**
 
@@ -14,7 +14,7 @@
 
 - **Para la ejecución del proyecto en terminal:**
 
-  `cd /numerosPerfectos/`
+  `cd Numeros_Perfectos/`
 
   `npm start `
 

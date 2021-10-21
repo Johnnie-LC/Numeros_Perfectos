@@ -1,4 +1,6 @@
 const { numerosPerfectos } = require('./numerosPerfectos')
 
+const { numeroPerfecto } = require('./numeroPerfecto')
+
 console.table(numerosPerfectos(8129))
-// console.table(numerosPerfectos(1000.3368))
+// console.table(numeroPerfecto(496))

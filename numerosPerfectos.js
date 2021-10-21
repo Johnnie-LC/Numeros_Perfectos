@@ -4,7 +4,7 @@ const numerosPerfectos = (n) => {
   if (typeof n === 'number') {
     n = Math.floor(n)
 
-    if (n > 2) {
+    if (n > 4) {
       let numeros = []
 
       for (let i = 2; i < n; i++) {

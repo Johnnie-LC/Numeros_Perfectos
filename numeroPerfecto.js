@@ -4,7 +4,9 @@ const numeroPerfecto = (num) => {
 
     let divisores = []
 
-    for (let i = 0; i < num; i++) {
+    const num2 = num / 2
+
+    for (let i = 0; i <= num2; i++) {
       if (num % i === 0) {
         divisores.push(i)
       }
